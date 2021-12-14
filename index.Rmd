@@ -7,11 +7,11 @@ site: bookdown::bookdown_site
 
 # Introduction
 
-A data management plan (DMP) is a short document that describes a researchers plans for collecting, organizing, storing, and eventually disseminating the data that underlies their published research products. These plans are increasingly required by funding agencies as a part of grant applications, but remain a relatively novel form of documentation with which researchers are sometimes unfamiliar. 
+A data management plan (DMP) is a short document that describes a researchers' plans for collecting, organizing, storing, and eventually disseminating the data that underlies their published research products. These plans are increasingly required by funding agencies as a part of grant applications, but remain a relatively novel form of documentation with which researchers are sometimes unfamiliar. 
 
 [DMPTool](https://dmptool.org/) is a platform that provides structured assistance to researchers that would like to craft a data management plan. It allows researchers to view sample plans that have been completed in the past, and develop new data management plans using DMP templates that correspond to the requirements of the major funding agencies. It also allows for easy collaboration among project teams, including among project teams that are dispersed across multiple institutions.
 
-Many academic and research institutions use customized versions of DMPTool, including CU Boulder. Below, in Section 2, we provide a brief guide to using DMPTool for CU researchers; Section 3 provides suggestions on further reading. 
+Many academic and research institutions use customized versions of DMPTool, including CU Boulder. Below, in [Section 2](https://cu-boulder-crdds.github.io/dmptool_guide/using-dmptool.html), we provide a brief guide to using DMPTool for CU researchers; [Section 3](https://cu-boulder-crdds.github.io/dmptool_guide/additional-resources.html) provides suggestions on further reading. 
 
 
 
